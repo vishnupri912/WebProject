@@ -1,0 +1,86 @@
+.head1{
+    color:#183b56;
+    font-family: "Roboto";
+    font-size:35px;
+    font-weight: bold;
+}
+.card1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size:cover;
+    height: 300px;
+    width:100%;
+    border-radius: 10px;
+}
+
+.card2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size:cover;
+    height: 300px;
+    width:100%;
+    border-radius: 10px;
+}
+.head2{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:35px;
+}
+.pa1{
+    color:rgba(255, 255, 255, 0.952);
+    font-family: "Roboto";
+    font-size:18px;
+}
+.bu1{
+    background-color: #ffffff;
+    color:#ff9f00;
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 15px;
+    height: 35px;
+    width:110px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.pa3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.li1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.li2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.ul1{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.bu2 {
+    color: #183b56;
+    border-color: #323f4b;
+    border-width: 1px;
+    height: 30px;
+    width: 80px;
+    font-size: 12px;
+    border-style: solid;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.sp1 {
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.sp2 {
+    color: #ff9f00;
+    font-size: 18px;
+}
